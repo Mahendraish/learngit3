@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    margin: 200px auto;
+}
+p{
+    color: brown;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
